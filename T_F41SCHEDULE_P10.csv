@@ -1,0 +1,92 @@
+YEAR,AIRLINE_ID,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,CARRIER,CARRIER_NAME,ENTITY,GENERAL_MANAGE,PILOTS_COPILOTS,OTHER_FLT_PERS,PASS_GEN_SVC_ADMIN,MAINTENANCE,ARCFT_TRAF_HANDLING_GRP1,GEN_ARCFT_TRAF_HANDLING,AIRCRAFT_CONTROL,PASSENGER_HANDLING,CARGO_HANDLING,TRAINEES_INTRUCTOR,STATISTICAL,TRAFFIC_SOLICITERS,OTHER,TRANSPORT_RELATED,TOTAL
+2021,19393,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,D,1738,7321,0,13256,2395,0,1150,397,8437,9833,151,882,10,4816,0,50386
+2021,19393,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,L,36,151,0,274,49,0,24,8,174,203,3,18,0,99,0,1039
+2021,19687,QX,Horizon Air,QX,Horizon Air,D,13,816,15,625,240,0,42,52,1507,54,98,21,0,12,0,3495
+2021,19690,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,D,106,770,0,1844,534,0,350,167,981,664,33,428,127,99,0,6103
+2021,19690,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,P,8,58,0,139,40,0,26,13,74,49,3,33,10,7,0,460
+2021,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,A,38,867,0,1241,565,0,339,53,1329,85,66,69,98,873,0,5623
+2021,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,D,387,8780,0,12559,5720,0,3429,540,13457,864,666,696,990,8835,0,56923
+2021,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,L,47,1060,0,1516,690,0,414,65,1624,104,80,84,120,1066,0,6870
+2021,19790,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,P,12,276,0,395,180,0,108,17,423,27,21,22,31,278,0,1790
+2021,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,A,5,1258,0,1908,1306,0,0,57,1267,1523,79,1146,149,0,0,8698
+2021,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,D,39,10029,0,15214,10416,0,0,458,10108,12144,626,9140,1189,0,0,69363
+2021,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,L,9,2450,0,3717,2545,0,0,112,2469,2966,153,2233,290,0,0,16944
+2021,19805,AA,American Airlines Inc.,AA,American Airlines Inc.,P,1,252,0,382,262,0,0,12,254,305,16,230,30,0,0,1744
+2021,19874,8C,Air Transport International,8C,Air Transport International,A,1,28,0,30,45,0,0,1,0,0,0,2,0,4,0,111
+2021,19874,8C,Air Transport International,8C,Air Transport International,D,42,444,0,0,223,0,0,40,0,9,9,50,1,108,0,926
+2021,19917,5X,United Parcel Service,5X,United Parcel Service,A,0,348,0,0,260,0,13,17,0,0,19,74,2,8,0,741
+2021,19917,5X,United Parcel Service,5X,United Parcel Service,D,0,2075,0,0,1552,0,79,103,0,0,112,440,9,49,0,4419
+2021,19917,5X,United Parcel Service,5X,United Parcel Service,L,0,138,0,0,104,0,5,7,0,0,8,29,1,3,0,295
+2021,19917,5X,United Parcel Service,5X,United Parcel Service,P,0,508,0,0,380,0,19,25,0,0,28,108,2,12,0,1082
+2021,19930,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,D,19,2779,90,5019,826,0,2675,215,973,437,120,376,238,1712,0,15479
+2021,19930,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,L,2,283,9,511,84,0,273,22,99,44,12,38,24,174,0,1575
+2021,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,A,59,1263,0,1599,685,0,1274,96,2454,49,98,218,71,90,0,7956
+2021,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,D,334,7081,0,8961,3841,0,7141,538,13753,273,550,1220,399,506,0,44597
+2021,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,L,67,1433,0,1814,778,0,1446,109,2784,55,111,247,81,102,0,9027
+2021,19977,UA,United Air Lines Inc.,UA,United Air Lines Inc.,P,19,396,0,501,215,0,399,30,769,15,31,68,22,28,0,2493
+2021,20007,5Y,Atlas Air Inc.,5Y,Atlas Air Inc.,D,372,2255,160,306,262,0,0,41,0,336,49,59,41,23,0,3904
+2021,20007,5Y,Atlas Air Inc.,5Y,Atlas Air Inc.,I,13,82,6,11,10,0,0,2,0,12,2,2,1,1,0,142
+2021,20046,ZW,Air Wisconsin Airlines Corp,ZW,Air Wisconsin Airlines Corp,D,111,598,0,264,124,0,16,33,0,0,14,70,0,52,0,1282
+2021,20100,PO,Polar Air Cargo Airways,PO,Polar Air Cargo Airways,A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2021,20100,PO,Polar Air Cargo Airways,PO,Polar Air Cargo Airways,D,18,0,0,2,1,0,0,0,0,33,0,4,24,1,0,83
+2021,20100,PO,Polar Air Cargo Airways,PO,Polar Air Cargo Airways,P,7,0,0,0,0,0,0,0,0,41,0,0,78,0,0,126
+2021,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,A,2104,661,34,0,662,0,813,831,0,1154,36,46,151,9409,37973,53874
+2021,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,D,1032,2905,143,0,1142,0,294,54,0,14688,30,8,1,3843,90833,114973
+2021,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,L,877,89,7,0,176,0,412,338,0,10513,17,22,59,3785,10722,27017
+2021,20107,FX,Federal Express Corporation,FX,Federal Express Corporation,P,2847,1100,49,0,1113,0,1497,516,0,28,47,57,154,13918,19404,40730
+2021,20108,NC,Northern Air Cargo Inc.,NC,Northern Air Cargo Inc.,D,15,48,9,0,52,0,13,0,0,30,2,21,2,16,0,208
+2021,20108,NC,Northern Air Cargo Inc.,NC,Northern Air Cargo Inc.,I,23,71,14,0,77,0,20,0,0,46,3,31,3,24,1,313
+2021,20151,M6,Amerijet International,M6,Amerijet International,D,7,101,0,0,85,0,27,31,0,184,3,56,33,18,5,550
+2021,20151,M6,Amerijet International,M6,Amerijet International,L,4,54,0,0,45,0,15,16,0,98,2,30,17,9,2,292
+2021,20166,GFQ,Gulf And Caribbean Cargo,GFQ,Gulf And Caribbean Cargo,D,1,28,5,0,5,5,0,0,0,0,0,5,0,0,0,49
+2021,20166,GFQ,Gulf And Caribbean Cargo,GFQ,Gulf And Caribbean Cargo,I,3,49,9,0,10,9,0,0,0,0,0,8,0,0,0,88
+2021,20169,L2,Lynden Air Cargo Airlines,L2,Lynden Air Cargo Airlines,D,5,33,19,0,40,0,0,9,0,12,0,23,0,0,0,141
+2021,20169,L2,Lynden Air Cargo Airlines,L2,Lynden Air Cargo Airlines,I,2,21,11,0,25,0,0,5,0,7,0,14,0,0,0,85
+2021,20177,PFQ,Asia Pacific,PFQ,Asia Pacific,I,7,46,2,0,23,5,0,0,0,0,2,4,0,0,0,89
+2021,20195,WI,Sky Lease Cargo,WI,Sky Lease Cargo,I,10,59,18,0,21,0,0,13,0,96,0,1,0,64,0,282
+2021,20304,OO,SkyWest Airlines Inc.,OO,SkyWest Airlines Inc.,D,7,5664,0,4666,2211,0,189,167,1079,0,68,59,0,171,0,14281
+2021,20304,OO,SkyWest Airlines Inc.,OO,SkyWest Airlines Inc.,L,0,41,0,33,16,0,1,1,8,0,0,0,0,1,0,101
+2021,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",D,3,12,0,18,12,0,2,4,3,0,0,24,0,6,0,84
+2021,20310,WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",WL,"Caribbean Sun Airlines, Inc. d/b/a World Atlantic Airlines",I,4,18,0,27,18,0,3,7,5,0,0,38,1,9,0,130
+2021,20363,9E,Endeavor Air Inc.,9E,Endeavor Air Inc.,D,6,1607,49,1475,1073,0,0,81,0,0,250,104,0,85,0,4730
+2021,20368,G4,Allegiant Air,G4,Allegiant Air,D,44,1094,62,1754,504,0,590,99,197,0,37,105,45,176,0,4707
+2021,20370,KAQ,Kalitta Air LLC,KAQ,Kalitta Air LLC,D,1,103,1,0,127,0,35,23,0,13,27,18,0,1,0,349
+2021,20370,KAQ,Kalitta Air LLC,KAQ,Kalitta Air LLC,I,6,586,8,0,718,0,199,127,0,75,155,99,0,81,0,2054
+2021,20377,X9,Omni Air International LLC,X9,Omni Air International LLC,D,1,19,0,21,15,0,1,4,1,0,1,5,0,1,0,69
+2021,20377,X9,Omni Air International LLC,X9,Omni Air International LLC,I,21,302,0,323,236,0,10,72,21,0,14,73,6,16,0,1094
+2021,20378,YV,Mesa Airlines Inc.,YV,Mesa Airlines Inc.,D,123,1090,0,997,353,0,39,38,0,0,13,85,0,112,0,2850
+2021,20378,YV,Mesa Airlines Inc.,YV,Mesa Airlines Inc.,L,9,83,0,76,27,0,3,3,0,0,1,7,0,8,0,217
+2021,20397,OH,PSA Airlines Inc.,OH,PSA Airlines Inc.,D,7,1699,46,1383,547,0,112,51,0,0,166,183,0,245,0,4439
+2021,20398,MQ,Envoy Air,MQ,Envoy Air,D,1422,1884,0,1501,1442,0,3286,0,4078,0,231,0,0,122,0,13966
+2021,20398,MQ,Envoy Air,MQ,Envoy Air,L,40,53,0,42,41,0,93,0,115,0,7,0,0,3,0,394
+2021,20405,N8,National Air Cargo Group Inc d/ba National Airlines,N8,National Air Cargo Group Inc d/ba National Airlines,D,5,8,5,16,34,0,5,6,0,14,3,6,2,13,0,117
+2021,20405,N8,National Air Cargo Group Inc d/ba National Airlines,N8,National Air Cargo Group Inc d/ba National Airlines,I,6,81,5,16,34,0,5,6,0,14,3,6,3,13,0,192
+2021,20408,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,5V,Tatonduk Outfitters Limited d/b/a Everts Air Alaska and Everts Air Cargo,D,11,52,12,0,109,102,0,0,0,0,6,43,2,29,0,366
+2021,20409,B6,JetBlue Airways,B6,JetBlue Airways,A,0,14,0,16,3,0,1,1,18,0,0,1,0,5,0,59
+2021,20409,B6,JetBlue Airways,B6,JetBlue Airways,D,41,2745,16,3197,622,0,85,220,3693,45,401,149,58,1066,0,12338
+2021,20409,B6,JetBlue Airways,B6,JetBlue Airways,L,15,968,6,1127,219,0,54,77,1302,0,0,53,20,376,0,4217
+2021,20416,NK,Spirit Air Lines,NK,Spirit Air Lines,D,1116,2388,0,4057,474,0,0,64,202,0,47,21,0,236,0,8605
+2021,20416,NK,Spirit Air Lines,NK,Spirit Air Lines,L,218,467,0,792,93,0,0,13,39,0,9,4,0,46,0,1681
+2021,20422,SY,Sun Country Airlines d/b/a MN Airlines,SY,Sun Country Airlines d/b/a MN Airlines,D,72,385,0,504,180,0,174,21,11,9,0,38,111,24,0,1529
+2021,20422,SY,Sun Country Airlines d/b/a MN Airlines,SY,Sun Country Airlines d/b/a MN Airlines,L,9,48,0,62,22,0,22,3,1,1,0,5,14,3,0,190
+2021,20427,PT,Piedmont Airlines,PT,Piedmont Airlines,D,7,565,0,293,377,0,0,49,4,0,50,76,0,723,0,2144
+2021,20436,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,D,25,1571,0,2648,253,0,114,9,171,0,24,233,0,10,0,5058
+2021,20436,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,L,2,138,0,233,22,0,10,1,15,0,2,20,0,1,0,444
+2021,20445,C5,CommuteAir LLC dba CommuteAir,C5,"Commutair Aka Champlain Enterprises, Inc.",D,12,566,0,221,248,0,10,100,0,0,41,47,0,121,0,1366
+2021,20447,U7,USA Jet Airlines Inc.,U7,USA Jet Airlines Inc.,D,12,65,36,0,65,0,0,0,0,18,7,13,0,78,130,424
+2021,20452,YX,Republic Airline,YX,Republic Airline,D,73,2504,7,2128,807,0,0,177,19,0,65,243,0,188,0,6211
+2021,20452,YX,Republic Airline,YX,Republic Airline,L,1,25,0,20,8,0,0,2,1,0,1,3,0,2,0,63
+2021,20453,ABX,ABX Air Inc,ABX,ABX Air Inc,A,4,35,0,0,18,0,4,0,0,0,2,1,0,2,1,67
+2021,20453,ABX,ABX Air Inc,ABX,ABX Air Inc,D,24,221,0,0,115,0,25,0,0,0,10,5,1,11,9,421
+2021,20500,G7,GoJet Airlines LLC d/b/a United Express,G7,GoJet Airlines LLC d/b/a United Express,D,0,354,0,227,232,0,8,46,0,0,155,15,0,179,0,1216
+2021,21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",D,9,170,0,140,100,0,34,17,13,2,9,22,1,21,0,538
+2021,21161,09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",09Q,"Swift Air, LLC d/b/a Eastern Air Lines d/b/a Eastern",I,2,29,0,24,17,0,6,3,2,0,1,4,0,3,0,91
+2021,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",D,16,41,33,54,7,16,0,0,0,0,9,18,4,14,0,212
+2021,21492,1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",1BQ,"Eastern Airlines f/k/a Dynamic Airways, LLC",I,0,0,0,33,0,3,0,0,0,0,0,0,0,0,0,36
+2021,21629,KD,Western Global,KD,Western Global,D,14,164,0,0,132,0,11,18,0,45,5,12,0,7,0,408
+2021,21634,KH,Aloha Air Cargo,KH,Aloha Air Cargo,D,12,54,5,0,119,0,1,0,0,219,8,5,5,17,0,445
+2021,21652,27Q,"Jet Aviation Flight Services, Inc.",27Q,"Jet Aviation Flight Services, Inc.",D,1,339,0,65,100,11,0,0,0,0,0,2,0,0,110,628
+2021,21712,2HQ,Elite Airways LLC,2HQ,Elite Airways LLC,D,10,27,0,14,27,0,1,8,1,0,2,3,0,0,0,93
+2021,21974,3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",3EQ,"Scott Aviation, LLC  d/b/a  Silver Air",D,0,52,0,55,3,9,0,0,0,0,0,0,0,0,0,119
+2021,21979,3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",3FQ,"Western Air Charter, Inc.  d/b/a  Jet Edge",D,20,227,0,43,0,107,0,0,0,0,0,28,26,0,0,451
+2021,22080,MX,Breeze Aviation Group DBA  Breeze,MX,Breeze Aviation Group DBA  Breeze,D,6,87,0,31,68,232,0,0,0,0,26,2,0,100,0,552
